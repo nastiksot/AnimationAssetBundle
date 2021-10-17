@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1744894125
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b566f7e7d7f82b9ed7deb003fb885310
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 47a16b49f3d18b4bd7e8588aac7a780f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefab/Archer/erika_archer_bow_arrow.fbx
+- Assets/Prefab/Archer/erika_archer_bow_arrow.prefab
+Dependencies: []

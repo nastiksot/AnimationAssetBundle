@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1094160366
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9c00face8d46bc897cf1f0eee5dd653e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9fab57420cc1c95161923978d213a8ad
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefab/Animations/CharacterController.controller
+- Assets/Prefab/Animations/Run_Forward.fbx
+- Assets/Prefab/Animations/Standing Idle 02.fbx
+Dependencies: []

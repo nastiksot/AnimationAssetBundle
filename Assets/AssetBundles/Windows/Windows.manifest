@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 2067496545
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: animations.1
+      Dependencies: {}
+    Info_1:
+      Name: archer.1
+      Dependencies: {}
